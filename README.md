@@ -11,16 +11,13 @@ The project combines exploratory data analysis, SQL, Logistic Regression, featur
 ```text
 telco-churn-analysis/
 │
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│
 ├── notebooks/
 │   └── telco_churn_analysis.ipynb
 │
 ├── requirements.txt
 └── README.md
 ```
-
+## Dataset: Telco Customer Churn dataset, originally published on Kaggle.
 ## Analysis
 
 The notebook covers:
